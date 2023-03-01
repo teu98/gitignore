@@ -1,2 +1,0 @@
-# gitignore
-teste_ignore
